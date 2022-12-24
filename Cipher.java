@@ -1,5 +1,4 @@
 /**
- * Name : Saman Zarei
  * This program is about the privacy of our chats with the other people so
  * that no one understands what we are texting to each other by changing each
  * word to some secure letters(encoding) and after that change it back to the
@@ -11,7 +10,6 @@
  * This class has designed to encode the words by secure letters
  * and after that change them back to the original text by decoding the
  * secure letters.
- * @author Saman Zarei
  */
 public class Cipher{
 
